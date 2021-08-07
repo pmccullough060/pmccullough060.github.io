@@ -1,3 +1,6 @@
 [submodule "3D-Binary-Clock"]
 	path = 3D-Binary-Clock
 	url = https://github.com/pmccullough060/3D-Binary-Clock.git
+[submodule "Genetic-Algorithms-For-Milling"]
+	path = Genetic-Algorithms-For-Milling
+	url = https://github.com/pmccullough060/Genetic-Algorithms-For-Milling.git
